@@ -1,0 +1,7 @@
+@media (min-width: 992px)
+{
+.navbar-expand-lg .dropdown-menu.dropdown-menu-end {
+    left: 0px!important;
+    right: auto!important;
+}
+}
